@@ -14,6 +14,7 @@
            
             // Check for vowel
             console.log(str[i]);
+            console.log(str);
         return str;
       }
        // Main Calling Function
